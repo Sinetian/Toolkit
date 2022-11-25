@@ -19,3 +19,7 @@ If you use my code,you **must** do:
 
 Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
 You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob/main/LICENSE).
+
+Useful links:
+My [repositories](https://github.com/Sinetian/Toolkit)
+My [KOOK server](https://kook.top/5vdzqC)
