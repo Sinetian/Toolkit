@@ -1,6 +1,6 @@
 # Sinetian's Toolkit
 This is a toolkit written by Sinetian.It was made completely myself,
-with no "teams" at all!
+with no "teams" at all!**WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
 # What can you do?
 I use GPLv3.0 lisence.According to it,you **can** use my code like this:
 1. Commercial use
