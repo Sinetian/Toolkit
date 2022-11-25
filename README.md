@@ -11,7 +11,7 @@ I use GPLv3.0 licence.According to it,you **can** use my code like this:
 # What can't you do?
 1. Liability
 2. Warranty
-# If you use my code,you **must** do:
+# If you use my code,you **must**:
 1. License and copyright notice
 2. State changes
 3. Disclose source
