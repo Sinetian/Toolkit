@@ -1,6 +1,7 @@
 # Sinetian's Toolkit
 This is a toolkit written by Sinetian.It was made completely myself,
 with no "teams" at all!**WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
+[Languages](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # What can you do?
 I use GPLv3.0 licence.According to it,you **can** use my code like this:
 1. Commercial use
@@ -23,4 +24,4 @@ You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob
 # Useful links:
 My [repositories](https://github.com/Sinetian/Toolkit),
 My [KOOK server](https://kook.top/5vdzqC)
-[https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white]()
+[](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
