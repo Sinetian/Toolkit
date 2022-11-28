@@ -1,6 +1,7 @@
 # Sinetian's Toolkit
 This is a toolkit written by Sinetian.It was made completely myself,
 with no "teams" at all!**WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
+[](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
 # What can you do?
 I use GPLv3.0 licence.According to it,you **can** use my code like this:
 1. Commercial use
