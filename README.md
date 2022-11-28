@@ -23,4 +23,3 @@ You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob
 # Useful links:
 My [repositories](https://github.com/Sinetian/Toolkit),
 My [KOOK server](https://kook.top/5vdzqC)
-theme:Cayman
