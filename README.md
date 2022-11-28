@@ -23,3 +23,4 @@ You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob
 # Useful links:
 My [repositories](https://github.com/Sinetian/Toolkit),
 My [KOOK server](https://kook.top/5vdzqC)
+[https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white]()
