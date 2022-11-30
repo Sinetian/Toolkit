@@ -1,7 +1,6 @@
 # Sinetian's Toolkit
 This is a toolkit written by Sinetian.It was made completely myself,
 with no "teams" at all!**WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # What can you do with my code?
 1. Commercial use
 2. Modification
