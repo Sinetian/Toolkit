@@ -1,6 +1,6 @@
 ![Logo](https://img.kookapp.cn/assets/2022-12/0jJT3FGX3r09a03h.png)
 # 欢迎使用Sinetian's Toolkit！
-[English](https://github.com/Sinetian/Toolkit/blob/main/README.md) [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
+语言：[English](https://github.com/Sinetian/Toolkit/blob/main/README.md) [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
 这是一个精心设计的工具箱，目前包含许多功能。
 不仅如此，这个工具箱仅有我开发，至少到现在是这样。
 ~~不是我懒，协议实在不会翻译……~~
