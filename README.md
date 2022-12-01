@@ -22,7 +22,7 @@ with no "teams" at all!
 
 Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
 You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob/main/LICENSE).
-You can also report a bug at [issues].
+You can also report a bug at [issues](https://github.com/Sinetian/Toolkit/issues/new).
 
 # Useful links:
 My [repositories](https://github.com/Sinetian/Toolkit),
