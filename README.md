@@ -13,17 +13,18 @@ with no "teams" at all!
 # What don't my code have?
 1. Liability.
 2. Warranty.
-# If you use my code,you **must**:
+# If you use my code, you **must**:
 1. License and copyright notice.
 2. State changes.
 3. Disclose source.
 4. Use same license(GPLv3.0).
 5. Use the same compiler(TDM-GCC).
+# Compare the versions
+**Stable** updates slowly and has almost no bugs. But, in turn, it has less new funcations.
+**Beta** updates at a middle speed, and may contain bugs. It is used to test funcations for most.
+**Snapshot** contains more bugs than any versions above, and have exciting new funcations! If you're brave, just try it!
 
 Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
 You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob/main/LICENSE).
-You can also report a bug at [issues](https://github.com/Sinetian/Toolkit/issues/new).
-
-# Useful links:
-My [repositories](https://github.com/Sinetian/Toolkit),
-My [KOOK server](https://kook.top/5vdzqC)
+You can always report a bug at [issues](https://github.com/Sinetian/Toolkit/issues/new).
+Sadly, this program's update will be extremely slow as I've to go to school
