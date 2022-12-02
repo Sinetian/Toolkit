@@ -28,4 +28,4 @@ need to provide me your username and you will be added to the co-authors namelis
 Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
 You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob/main/LICENSE).
 You can always report a bug at [issues](https://github.com/Sinetian/Toolkit/issues/new).
-Sadly, this program's update will be extremely slow as I've to go to school
+Sadly, this program's update will be extremely slow as I've to go to school!
