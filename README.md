@@ -5,7 +5,7 @@ This is a toolkit written by Sinetian.It was made completely myself,
 with no "teams" at all!
 **WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
 # What can you do with my code?
-1. Commercial use(You can sell it).
+1. Commercial use(You can sell it!).
 2. Modification.
 3. Distribution.
 4. Patent use.
