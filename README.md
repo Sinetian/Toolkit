@@ -22,7 +22,9 @@ need to provide me your username and you will be added to the co-authors namelis
 5. Use the same compiler(TDM-GCC).
 # Compare the versions
 **Stable** updates slowly and has almost no bugs. But, in turn, it has less new funcations.
+
 **Beta** updates at a middle speed, and may contain bugs. It is used to test funcations for most.
+
 **Snapshot** contains more bugs than any versions above, and have exciting new funcations! If you're brave, just try it!
 
 Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
