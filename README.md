@@ -1,4 +1,6 @@
-![Logo](https://img.kookapp.cn/assets/2022-12/0jJT3FGX3r09a03h.png)  **Sinetian's Toolkit!**
+<div align="center">
+
+![Logo](https://img.kookapp.cn/assets/2022-12/0jJT3FGX3r09a03h.png)
 # Sinetian's Toolkit
 Languages:[English](https://github.com/Sinetian/Toolkit/blob/main/README.md) [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
 This is a toolkit written by Sinetian.It was made completely by myself,
