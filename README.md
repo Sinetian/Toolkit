@@ -25,11 +25,11 @@ need to provide me your username and you will be added to the co-authors namelis
 4. Use same license(GPLv3.0).
 5. Use the same compiler(TDM-GCC).
 # Compare the versions
-- [x]**Stable** updates slowly and has almost no bugs. But, in turn, it has less new funcations.
+- **Stable** updates slowly and has almost no bugs. But, in turn, it has less new funcations.
 
-- [x]**Beta** updates at a middle speed, and may contain bugs. It is used to test funcations for most.
+- **Beta** updates at a middle speed, and may contain bugs. It is used to test funcations for most.
 
-- [x]**Snapshot** contains more bugs than any versions above, and have exciting new funcations! If you're brave, just try it!
+- **Snapshot** contains more bugs than any versions above, and have exciting new funcations! If you're brave, just try it!
 
 # Toolkit Insiders Project
 Now you can connect me at KOOK to join the Insiders Project. You can get the latest newsand many other stuff!
