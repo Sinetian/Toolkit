@@ -7,8 +7,8 @@ This is a toolkit written by Sinetian.It was made completely by myself,
 with no "teams" at all! If you hope to help me with my code, contact me at KOOK: Sinetian#5024. If you have a GitHub account, you will
 need to provide me your username and you will be added to the co-authors namelist.
 **WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
-
 </div>
+
 # What can you do with my code?
 1. Commercial use(You can sell it!).
 2. Modification.
