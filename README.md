@@ -3,11 +3,11 @@
 ![Logo](https://img.kookapp.cn/assets/2022-12/0jJT3FGX3r09a03h.png)
 # Sinetian's Toolkit
 Languages:[English](https://github.com/Sinetian/Toolkit/blob/main/README.md) [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
+</div>
 This is a toolkit written by Sinetian.It was made completely by myself,
 with no "teams" at all! If you hope to help me with my code, contact me at KOOK: Sinetian#5024. If you have a GitHub account, you will
 need to provide me your username and you will be added to the co-authors namelist.
 **WARNING:THE PROGRAM IS WRITTEN IN CHINESE!**
-</div>
 
 # What can you do with my code?
 1. Commercial use(You can sell it!).
