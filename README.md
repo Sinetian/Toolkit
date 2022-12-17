@@ -4,8 +4,8 @@
 
 # 欢迎使用Sinetian's Toolkit！
 
-语言：[English](https://github.com/Sinetian/Toolkit/blob/main/README.md) [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
-这是一个精心设计的工具箱，目前包含许多功能。
+这是一个精心设计的工具箱，目前包含许多功能。自2022年12月17日21:17起，我将不再提供英文版的说明和更新内容。
+但是，已有的Releases笔记不会更改。在显示简体中文的PC上，不会乱码。
 不仅如此，这个工具箱仅由我开发，没有什么开发团队。
 ~~不是我懒，协议实在不会翻译……~~
 开源协议地址：[这里](https://github.com/Sinetian/Toolkit/blob/main/LICENSE)
