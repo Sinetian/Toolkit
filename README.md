@@ -1,6 +1,8 @@
 <div align="center">
 
 ![Logo](https://img.kookapp.cn/assets/2022-12/0jJT3FGX3r09a03h.png)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 # 欢迎使用Sinetian's Toolkit！
 
