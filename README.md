@@ -4,9 +4,9 @@
 # Sinetian's Toolkit
 [English](https://github.com/Sinetian/Toolkit/blob/main/README.md)       [简体中文](https://github.com/Sinetian/Toolkit/blob/main/README_CN.md)
 </div>
-This is a toolkit written by Sinetian.It was made completely by myself,
+This is a toolkit written by Sinetian.I made it myself,
 with no "teams" at all! If you hope to help me with my code, contact me at KOOK: Sinetian#5024. If you have a GitHub account, you will
-need to provide me your username and you will be added to the co-authors namelist.
+need to provide me your username and you will be added to the co-authors namelist. You can also help me with develop.
 
 # What can you do with my code?
 1. Commercial use(You can sell it!).
@@ -33,7 +33,7 @@ need to provide me your username and you will be added to the co-authors namelis
 # Toolkit Insiders Project
 Now you can connect me at KOOK to join the Insiders Project. You can get the latest newsand many other stuff!
 
-Thanks!If you'd love to follow the content above, I welcome you to use my code freely.
+Thanks! If you'd love to follow the content above, I welcome you to use my code freely.
 You can read the GPLv3.0 license [here](https://github.com/Sinetian/Toolkit/blob/main/LICENSE).
 You can always report a bug at [issues](https://github.com/Sinetian/Toolkit/issues/new).
 Sadly, this program's update will be extremely slow as I've to go to school!
