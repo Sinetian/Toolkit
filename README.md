@@ -9,6 +9,6 @@
 
 # Sinetian's Toolkit（已停更）
 
-自从GMT+8：00 2023-1-5开始，我不再提供任何更新。项目已迁移到(Java Toolkit)[https://github.com/Sinetian/Java-Toolkit]。版本号继续更新。
+自从GMT+8：00 2023-1-5开始，我不再提供任何更新。项目已迁移到[Java Toolkit](https://github.com/Sinetian/Java-Toolkit)。版本号继续更新。
 
 </div>
